@@ -2,7 +2,14 @@ import React from 'react';
 
 function AboutPage() {
     return(
-        <h1>Hello World</h1>
+        <div>
+            {/*
+
+                I would like to have multiple sections regarding my background,
+                my education, and my personal experience.
+            */}
+            <p>Test</p>
+        </div>
     )
 }
 
