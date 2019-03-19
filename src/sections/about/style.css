@@ -1,0 +1,23 @@
+
+
+
+.skill-item{
+    list-style-type: none;
+}
+
+.skill {
+    display: flex;
+}
+
+
+
+
+
+
+.yes-skill {
+    color: red;
+}
+
+.no-skill {
+    color: grey;
+}
